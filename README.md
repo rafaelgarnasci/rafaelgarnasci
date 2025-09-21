@@ -1,4 +1,4 @@
-# Desenvolvedor de Software | Especialista em Arquitetura de Software | DevOps | Google Cloud Platform 
+# Desenvolvedor de Software | DevOps | Google Cloud Platform 
 
 ## 🔹 Tecnologias, Ferramentas e Frameworks:
 - **NestJS**
