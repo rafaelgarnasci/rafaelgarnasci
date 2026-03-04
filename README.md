@@ -1,4 +1,4 @@
-# Desenvolvedor de Software | DevOps | Google Cloud Platform 
+# Engenheiro de Software | Backend | DevOps | Cloud-Native  
 
 ## 🔹 Tecnologias, Ferramentas e Frameworks:
 - **NestJS**
@@ -10,14 +10,27 @@
 - **Docker**
 
 ## Sobre Mim:
-Sou um desenvolvedor de software apaixonado pela criação de soluções inovadoras e eficientes. Com uma pós-graduação em Arquitetura de Software, adquiri habilidades sólidas em uma ampla gama de tecnologias e ferramentas, incluindo o framework **NestJS** para construção de APIs robustas e escaláveis, além de expertise em bancos de dados SQL e NoSQL, como **MySQL**, **PostgreSQL** e **MongoDB**. Minha experiência em **DevOps** e na **Google Cloud Platform (GCP)** me permite implementar pipelines de **CI/CD** e containers **Docker** de forma eficiente, garantindo entregas contínuas e escalabilidade para os projetos.
+Sou Engenheiro de Software com foco em backend, com sólida experiência na construção de sistemas escaláveis, performáticos e sustentáveis, atuando principalmente em arquiteturas backend e ambientes cloud-native. Gosto de resolver problemas técnicos complexos sempre considerando a evolução do produto no longo prazo.  
+
+Tenho forte atuação em arquitetura de software, práticas de DevOps e automação de CI/CD, trabalhando diariamente com sistemas em produção e tomando decisões técnicas pragmáticas que equilibram desempenho, manutenibilidade e impacto no negócio.  
+
+Além do desenvolvimento hands-on, contribuo ativamente para a efetividade do time e liderança técnica. Tenho facilidade em liderar iniciativas, melhorar fluxos de desenvolvimento e apoiar colegas no dia a dia, com comunicação clara, senso de responsabilidade e foco em entrega de valor.  
+
+Trago também uma experiência profissional fora da engenharia de software, tendo atuado como professor e intérprete na Justiça Federal do Brasil. Esse contexto fortaleceu minhas habilidades de comunicação, tomada de decisão em ambientes de alta responsabilidade e colaboração com diferentes perfis de stakeholders.  
+
+Sou fluente em inglês, possuo espanhol avançado e estou em constante evolução técnica, aprofundando meu pensamento arquitetural e ampliando minha visão de produto para entregar soluções robustas e duradouras.  
 
 ## Habilidades Interpessoais:
-Além das habilidades técnicas, sou reconhecido pela minha capacidade de colaborar efetivamente em equipe, comunicar de forma clara e liderar projetos com sucesso e ampla experiência em liderar times. Estou sempre buscando novos desafios para aplicar minhas habilidades em arquitetura de software e contribuir para o sucesso da equipe.
+- Colaboração efetiva em equipe  
+- Comunicação clara e objetiva  
+- Liderança técnica e gestão de times  
+- Tomada de decisão pragmática e responsável  
 
-- **Português:** Nativo
-- **Inglês:** Fluente
-- **Espanhol:** Avançado
+## Idiomas:
+- **Português:** Nativo  
+- **Inglês:** Fluente  
+- **Espanhol:** Avançado  
+
   
 
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
