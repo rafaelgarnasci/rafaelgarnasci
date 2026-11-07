@@ -9,6 +9,7 @@
 - **CI/CD**
 - **Docker**
 
+
 ## Sobre Mim:
 Sou Engenheiro de Software com foco em backend, com sólida experiência na construção de sistemas escaláveis, performáticos e sustentáveis, atuando principalmente em arquiteturas backend e ambientes cloud-native. Gosto de resolver problemas técnicos complexos sempre considerando a evolução do produto no longo prazo.  
 
